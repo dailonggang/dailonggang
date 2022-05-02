@@ -1,5 +1,5 @@
 ### Hi 我是代龙刚 👋
-<img src="https://github-readme-stats.vercel.app/api?username=polaris1119&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=dailonggang&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
  
 ### 短期目标是秋招算法岗冲一个大厂
 - 🔭 记得日常锻炼和仰望星空
