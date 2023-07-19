@@ -1,7 +1,7 @@
 ### Hi 我是代龙刚 👋
 <img src="https://github-readme-stats.vercel.app/api?username=dailonggang&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
  
-### 短期目标是顺利秋招
+### 现就职于北京经纬恒润科技股份有限公司 智能座舱算法二部
 - 🔭 记得日常锻炼和仰望星空
 - 📫 邮箱 longgang6688@163.com
 - 🤔 一些日常总结和学习记录会发布在[知乎](https://www.zhihu.com/people/long-wu-nian-31/posts) 
