@@ -7,7 +7,7 @@
 - 🤔 一些日常总结和学习记录会发布在[知乎](https://www.zhihu.com/people/long-wu-nian-31/posts) 
 - 😄 平时喜欢玩各种球类运动、爬山、轻音乐、旅游、摄影
 - ⚡ 平时也会刷一些Leetcode经典题目，大多数都能在pycharm中运行，欢迎交流。[仓库](https://github.com/dailonggang/Leetcode-python)
-- 🌱 学术方面：ECCV 2022, AAAI 2023 和 CVPR 2023, ICCV 2023, NeurIPS 2023会议审稿人
+- 🌱 学术方面：担任CVPR 2023 | ICCV 2023 | ECCV 2022 | NeurIPS 2023 | ICLR 2024 | AAAI 2023会议审稿人
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 <!--
